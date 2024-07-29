@@ -1,7 +1,10 @@
-import Image from "next/image";
+import FormWithReactHookForm from '@/components/form-with-react-hook-form';
 
 export default function Home() {
   return (
-    <h2>React Hook Form</h2>
+    <>
+      <h2>RHF</h2>
+      <FormWithReactHookForm />
+    </>
   );
 }
