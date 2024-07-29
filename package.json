@@ -9,10 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "add": "^2.0.6",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-tailwindcss": "^3.17.4",
     "lucide-react": "^0.417.0",
     "next": "14.2.5",
+    "prettier": "^3.3.3",
     "react": "^18",
     "react-dom": "^18",
     "react-hook-form": "^7.52.1",
